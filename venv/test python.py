@@ -3,7 +3,7 @@ def add_numbers(a, b):
     return c
 
 def traingular_numbers(a):
-    pass
+    return a*(a+1)/2
 
 
 def multiply_numbers(a, b):
