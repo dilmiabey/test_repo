@@ -10,6 +10,8 @@ def prime_numbers(c):
 
 def test_function():
     pass
+def changed_test_function():
+    pass
   
 def multiply_numbers(a, b):
     c = a*b
